@@ -1,0 +1,687 @@
+THockeySDKResources
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/Info.plist ../Resources/HockeySDK-Info.plist
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied.png ../Resources/authorize_denied.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied@2x.png ../Resources/authorize_denied@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request.png ../Resources/authorize_request.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request@2x.png ../Resources/authorize_request@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/bg.png ../Resources/bg.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight.png ../Resources/buttonHighlight.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight@2x.png ../Resources/buttonHighlight@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient.png ../Resources/IconGradient.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient@2x.png ../Resources/IconGradient@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png ../Resources/feedbackActivity@2x~ipad.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity~ipad.png ../Resources/feedbackActivity~ipad.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy.png ../Resources/feedbackActiviy.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy@2x.png ../Resources/feedbackActiviy@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete.png ../Resources/buttonRoundedDelete.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete@2x.png ../Resources/buttonRoundedDelete@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png ../Resources/buttonRoundedDeleteHighlighted.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png ../Resources/buttonRoundedDeleteHighlighted@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular.png ../Resources/buttonRoundedRegular.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular@2x.png ../Resources/buttonRoundedRegular@2x.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png ../Resources/buttonRoundedRegularHighlighted.png
+cCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png ../Resources/buttonRoundedRegularHighlighted@2x.png
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/de.lproj/HockeySDK.strings ../Resources/de.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/es.lproj/HockeySDK.strings ../Resources/es.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/fr.lproj/HockeySDK.strings ../Resources/fr.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/it.lproj/HockeySDK.strings ../Resources/it.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ja.lproj/HockeySDK.strings ../Resources/ja.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt.lproj/HockeySDK.strings ../Resources/pt.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ru.lproj/HockeySDK.strings ../Resources/ru.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hr.lproj/HockeySDK.strings ../Resources/hr.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt-PT.lproj/HockeySDK.strings ../Resources/pt-PT.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/en.lproj/HockeySDK.strings ../Resources/en.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/zh-Hans.lproj/HockeySDK.strings ../Resources/zh-Hans.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ro.lproj/HockeySDK.strings ../Resources/ro.lproj/HockeySDK.strings
+cCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hu.lproj/HockeySDK.strings ../Resources/hu.lproj/HockeySDK.strings
+cTouch /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle
+
+N../Resources/HockeySDK-Info.plist
+c00000000511D39A600000000000003D2
+t1360869798
+s978
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/Info.plist
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/bg.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/de.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/en.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/es.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity~ipad.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy@2x.png
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/fr.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hr.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hu.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/it.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ja.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt-PT.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ro.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ru.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/zh-Hans.lproj/HockeySDK.strings
+t2
+s0
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/IconGradient.png
+c00000000511D39A60000000000000AE6
+t1360869798
+s2790
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/IconGradient@2x.png
+c00000000511D39A60000000000000E2C
+t1360869798
+s3628
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_denied.png
+c00000000511D39A60000000000000924
+t1360869798
+s2340
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_denied@2x.png
+c00000000511D39A60000000000001120
+t1360869798
+s4384
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_request.png
+c00000000511D39A60000000000000990
+t1360869798
+s2448
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_request@2x.png
+c00000000511D39A600000000000012B9
+t1360869798
+s4793
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/bg.png
+c00000000511D39A60000000000000628
+t1360869798
+s1576
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonHighlight.png
+c00000000511D39A600000000000003FD
+t1360869798
+s1021
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonHighlight@2x.png
+c00000000511D39A6000000000000044D
+t1360869798
+s1101
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDelete.png
+c00000000511D39A60000000000000D58
+t1360869798
+s3416
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDelete@2x.png
+c00000000511D39A6000000000000104B
+t1360869798
+s4171
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDeleteHighlighted.png
+c00000000511D39A60000000000000DD2
+t1360869798
+s3538
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDeleteHighlighted@2x.png
+c00000000511D39A6000000000000125B
+t1360869798
+s4699
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegular.png
+c00000000511D39A60000000000000D1B
+t1360869798
+s3355
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegular@2x.png
+c00000000511D39A6000000000000100C
+t1360869798
+s4108
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegularHighlighted.png
+c00000000511D39A60000000000000E15
+t1360869798
+s3605
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegularHighlighted@2x.png
+c00000000511D39A6000000000000126D
+t1360869798
+s4717
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/de.lproj/HockeySDK.strings
+c00000000511D39A600000000000017FF
+t1360869798
+s6143
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/en.lproj/HockeySDK.strings
+c00000000511D39A600000000000016E4
+t1360869798
+s5860
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/es.lproj/HockeySDK.strings
+c00000000511D39A600000000000017BB
+t1360869798
+s6075
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActivity@2x~ipad.png
+c00000000511D39A600000000000009CE
+t1360869798
+s2510
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActivity~ipad.png
+c00000000511D39A600000000000006C4
+t1360869798
+s1732
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActiviy.png
+c00000000511D39A6000000000000064E
+t1360869798
+s1614
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActiviy@2x.png
+c00000000511D39A60000000000000932
+t1360869798
+s2354
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/fr.lproj/HockeySDK.strings
+c00000000511D39A6000000000000180D
+t1360869798
+s6157
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/hr.lproj/HockeySDK.strings
+c00000000511D39A6000000000000174E
+t1360869798
+s5966
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/hu.lproj/HockeySDK.strings
+c00000000511D39A60000000000001806
+t1360869798
+s6150
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/it.lproj/HockeySDK.strings
+c00000000511D39A600000000000017B5
+t1360869798
+s6069
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/ja.lproj/HockeySDK.strings
+c00000000511D39A6000000000000192F
+t1360869798
+s6447
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/pt-PT.lproj/HockeySDK.strings
+c00000000511D39A600000000000017BB
+t1360869798
+s6075
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/pt.lproj/HockeySDK.strings
+c00000000511D39A600000000000017A5
+t1360869798
+s6053
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/ro.lproj/HockeySDK.strings
+c00000000511D39A60000000000001754
+t1360869798
+s5972
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/ru.lproj/HockeySDK.strings
+c00000000511D39A60000000000001AE1
+t1360869798
+s6881
+
+N/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/zh-Hans.lproj/HockeySDK.strings
+c00000000511D39A600000000000016FC
+t1360869798
+s5884
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc688882d71cdb641^fc34962d71cdb641^---0#1#0#--18"Check dependencies36"6733DD0A-BAEF-4829-ACE2-FCC9DE3F68B3-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient.png ../Resources/IconGradient.png
+s382562605.808594
+e382562605.846671
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient.png
+x../Resources/IconGradient.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"CopyPNGFile ../Resources/HockeySDKResources.bundle/IconGradient.png ../Resources/IconGradient.pngb519cf2d71cdb641^d7bed82d71cdb641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/IconGradient.png0000000000000000^899"CopyPNGFile ../Resources/HockeySDKResources.bundle/IconGradient.png ../Resources/IconGradient.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/IconGradient.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient.png36"EAA2DA03-04C9-4EA2-B296-24AA860E410F-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient@2x.png ../Resources/IconGradient@2x.png
+s382562605.832223
+e382562605.872066
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient@2x.png
+x../Resources/IconGradient@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile ../Resources/HockeySDKResources.bundle/IconGradient@2x.png ../Resources/IconGradient@2x.pngc632d52d71cdb641^514bdf2d71cdb641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/IconGradient@2x.png0000000000000000^919"CopyPNGFile "../Resources/HockeySDKResources.bundle/IconGradient@2x.png" "../Resources/IconGradient@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/IconGradient@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/IconGradient@2x.png"36"6FD50B06-AB25-4340-B693-965555C4510B-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied.png ../Resources/authorize_denied.png
+s382562605.610782
+e382562605.690108
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied.png
+x../Resources/authorize_denied.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile ../Resources/HockeySDKResources.bundle/authorize_denied.png ../Resources/authorize_denied.png47929c2d71cdb641^9ba9b02d71cdb641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_denied.png0000000000000000^915"CopyPNGFile ../Resources/HockeySDKResources.bundle/authorize_denied.png ../Resources/authorize_denied.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_denied.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied.png36"48C0F87F-540F-460A-B3D0-3E8FFCF2AB5F-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied@2x.png ../Resources/authorize_denied@2x.png
+s382562605.610801
+e382562605.698657
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied@2x.png
+x../Resources/authorize_denied@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile ../Resources/HockeySDKResources.bundle/authorize_denied@2x.png ../Resources/authorize_denied@2x.pngfb939c2d71cdb641^4ddcb22d71cdb641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_denied@2x.png0000000000000000^935"CopyPNGFile "../Resources/HockeySDKResources.bundle/authorize_denied@2x.png" "../Resources/authorize_denied@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_denied@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_denied@2x.png"36"54448E81-3F8B-4F4D-8082-27C6C3F07659-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request.png ../Resources/authorize_request.png
+s382562605.691460
+e382562605.736812
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request.png
+x../Resources/authorize_request.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"CopyPNGFile ../Resources/HockeySDKResources.bundle/authorize_request.png ../Resources/authorize_request.png8f1cb12d71cdb641^7fa0bc2d71cdb641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_request.png0000000000000000^919"CopyPNGFile ../Resources/HockeySDKResources.bundle/authorize_request.png ../Resources/authorize_request.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_request.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request.png36"A3DDE416-5057-4226-8813-841E5582845A-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request@2x.png ../Resources/authorize_request@2x.png
+s382562605.700012
+e382562605.755601
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request@2x.png
+x../Resources/authorize_request@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile ../Resources/HockeySDKResources.bundle/authorize_request@2x.png ../Resources/authorize_request@2x.png8f50b32d71cdb641^ce6ec12d71cdb641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_request@2x.png0000000000000000^939"CopyPNGFile "../Resources/HockeySDKResources.bundle/authorize_request@2x.png" "../Resources/authorize_request@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/authorize_request@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/authorize_request@2x.png"36"312B0992-D4C5-4E0B-B298-4EB854FEB1BE-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/bg.png ../Resources/bg.png
+s382562605.738131
+e382562605.773801
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/bg.png
+x../Resources/bg.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"CopyPNGFile ../Resources/HockeySDKResources.bundle/bg.png ../Resources/bg.pnge50cbd2d71cdb641^bb47c62d71cdb641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/bg.png0000000000000000^859"CopyPNGFile ../Resources/HockeySDKResources.bundle/bg.png ../Resources/bg.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/bg.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/bg.png36"DE018374-66EB-4112-93CD-623DA81710E6-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight.png ../Resources/buttonHighlight.png
+s382562605.756980
+e382562605.807234
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight.png
+x../Resources/buttonHighlight.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonHighlight.png ../Resources/buttonHighlight.png75e7c12d71cdb641^3baace2d71cdb641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonHighlight.png0000000000000000^911"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonHighlight.png ../Resources/buttonHighlight.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonHighlight.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight.png36"829BF745-4895-4B5A-BD39-B12743B48B8D-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight@2x.png ../Resources/buttonHighlight@2x.png
+s382562605.790741
+e382562605.830880
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight@2x.png
+x../Resources/buttonHighlight@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonHighlight@2x.png ../Resources/buttonHighlight@2x.pngf99dca2d71cdb641^61c2d42d71cdb641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonHighlight@2x.png0000000000000000^931"CopyPNGFile "../Resources/HockeySDKResources.bundle/buttonHighlight@2x.png" "../Resources/buttonHighlight@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonHighlight@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonHighlight@2x.png"36"A4E28F8A-EA5A-495B-9AB5-286B9660CDFD-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete.png ../Resources/buttonRoundedDelete.png
+s382562605.942440
+e382562605.977240
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete.png
+x../Resources/buttonRoundedDelete.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedDelete.png ../Resources/buttonRoundedDelete.png9f5af12d71cdb641^c938fa2d71cdb641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDelete.png0000000000000000^927"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedDelete.png ../Resources/buttonRoundedDelete.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDelete.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete.png36"32E04B60-AD6A-4CD4-A5F5-12F0B4347A87-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete@2x.png ../Resources/buttonRoundedDelete@2x.png
+s382562605.964814
+e382562606.004179
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete@2x.png
+x../Resources/buttonRoundedDelete@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedDelete@2x.png ../Resources/buttonRoundedDelete@2x.pngd316f72d71cdb641^9816012e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDelete@2x.png0000000000000000^947"CopyPNGFile "../Resources/HockeySDKResources.bundle/buttonRoundedDelete@2x.png" "../Resources/buttonRoundedDelete@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDelete@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDelete@2x.png"36"AD47E633-06E7-4239-A972-08785DBD924C-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png ../Resources/buttonRoundedDeleteHighlighted.png
+s382562605.978599
+e382562606.016063
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png
+x../Resources/buttonRoundedDeleteHighlighted.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png ../Resources/buttonRoundedDeleteHighlighted.png959dfa2d71cdb641^cd1e042e71cdb641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDeleteHighlighted.png0000000000000000^971"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png ../Resources/buttonRoundedDeleteHighlighted.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDeleteHighlighted.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png36"F44651CA-49BA-4137-8FE6-AF2BF1CE349B-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png ../Resources/buttonRoundedDeleteHighlighted@2x.png
+s382562606.005574
+e382562606.047881
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png
+x../Resources/buttonRoundedDeleteHighlighted@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png ../Resources/buttonRoundedDeleteHighlighted@2x.png4b90012e71cdb641^ca510c2e71cdb641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDeleteHighlighted@2x.png0000000000000000^991"CopyPNGFile "../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png" "../Resources/buttonRoundedDeleteHighlighted@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedDeleteHighlighted@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png"36"2A8E4849-5281-4900-9CFA-A1AE907AACE0-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular.png ../Resources/buttonRoundedRegular.png
+s382562606.017411
+e382562606.052501
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular.png
+x../Resources/buttonRoundedRegular.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedRegular.png ../Resources/buttonRoundedRegular.pngdb8b042e71cdb641^e7700d2e71cdb641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegular.png0000000000000000^931"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedRegular.png ../Resources/buttonRoundedRegular.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegular.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular.png36"73E8A184-ECBF-440E-B3ED-70362A21056A-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular@2x.png ../Resources/buttonRoundedRegular@2x.png
+s382562606.049244
+e382562606.090720
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular@2x.png
+x../Resources/buttonRoundedRegular@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedRegular@2x.png ../Resources/buttonRoundedRegular@2x.png89b50c2e71cdb641^3887172e71cdb641^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegular@2x.png0000000000000000^951"CopyPNGFile "../Resources/HockeySDKResources.bundle/buttonRoundedRegular@2x.png" "../Resources/buttonRoundedRegular@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegular@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegular@2x.png"36"9836DE5C-46F6-497E-9A2A-CFB15B06487F-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png ../Resources/buttonRoundedRegularHighlighted.png
+s382562606.053807
+e382562606.097948
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png
+x../Resources/buttonRoundedRegularHighlighted.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png ../Resources/buttonRoundedRegularHighlighted.pngfcdf0d2e71cdb641^d333192e71cdb641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegularHighlighted.png0000000000000000^975"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png ../Resources/buttonRoundedRegularHighlighted.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegularHighlighted.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png36"49A7F57F-26DA-4847-9B35-CB8D68550643-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png ../Resources/buttonRoundedRegularHighlighted@2x.png
+s382562606.093517
+e382562606.141796
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png
+x../Resources/buttonRoundedRegularHighlighted@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"CopyPNGFile ../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png ../Resources/buttonRoundedRegularHighlighted@2x.pngf016182e71cdb641^064c242e71cdb641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegularHighlighted@2x.png0000000000000000^995"CopyPNGFile "../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png" "../Resources/buttonRoundedRegularHighlighted@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/buttonRoundedRegularHighlighted@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png"36"45D71E27-595C-4624-A60C-52139493A7A7-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png ../Resources/feedbackActivity@2x~ipad.png
+s382562605.848153
+e382562605.899771
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png
+x../Resources/feedbackActivity@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile ../Resources/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png ../Resources/feedbackActivity@2x~ipad.png1d3ed92d71cdb641^7a56e62d71cdb641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActivity@2x~ipad.png0000000000000000^955"CopyPNGFile "../Resources/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png" "../Resources/feedbackActivity@2x~ipad.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActivity@2x~ipad.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png"36"4B6635B2-F68C-483D-9863-B3D14E97786B-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity~ipad.png ../Resources/feedbackActivity~ipad.png
+s382562605.873440
+e382562605.913553
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity~ipad.png
+x../Resources/feedbackActivity~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile ../Resources/HockeySDKResources.bundle/feedbackActivity~ipad.png ../Resources/feedbackActivity~ipad.png10b3df2d71cdb641^11dfe92d71cdb641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActivity~ipad.png0000000000000000^943"CopyPNGFile "../Resources/HockeySDKResources.bundle/feedbackActivity~ipad.png" "../Resources/feedbackActivity~ipad.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActivity~ipad.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActivity~ipad.png"36"0F512988-4B42-44F6-A44D-A40E231488E7-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy.png ../Resources/feedbackActiviy.png
+s382562605.901097
+e382562605.941111
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy.png
+x../Resources/feedbackActiviy.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"CopyPNGFile ../Resources/HockeySDKResources.bundle/feedbackActiviy.png ../Resources/feedbackActiviy.pngb5c4e62d71cdb641^80f1f02d71cdb641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActiviy.png0000000000000000^911"CopyPNGFile ../Resources/HockeySDKResources.bundle/feedbackActiviy.png ../Resources/feedbackActiviy.png    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActiviy.png /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy.png36"52A9462C-C852-4E19-9FFA-C24A116241EF-
+
+CCopyPNGFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy@2x.png ../Resources/feedbackActiviy@2x.png
+s382562605.915086
+e382562605.963447
+r1
+xCopyPNGFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy@2x.png
+x../Resources/feedbackActiviy@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile ../Resources/HockeySDKResources.bundle/feedbackActiviy@2x.png ../Resources/feedbackActiviy@2x.png6e68ea2d71cdb641^cfa3f62d71cdb641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActiviy@2x.png0000000000000000^931"CopyPNGFile "../Resources/HockeySDKResources.bundle/feedbackActiviy@2x.png" "../Resources/feedbackActiviy@2x.png"    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/feedbackActiviy@2x.png" "/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/feedbackActiviy@2x.png"36"0A8F44E0-CF06-4935-8B6D-A772EA5D40AC-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/de.lproj/HockeySDK.strings ../Resources/de.lproj/HockeySDK.strings
+s382562606.100064
+e382562606.104539
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/de.lproj/HockeySDK.strings
+x../Resources/de.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/de.lproj/HockeySDK.stringsd5e8192e71cdb641^90c11a2e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/de.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/de.lproj/HockeySDK.strings ../Resources/de.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/de.lproj -- ../Resources/de.lproj/HockeySDK.strings36"91F1FEB4-16DA-4447-BAF4-FA01EAC927AB-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/en.lproj/HockeySDK.strings ../Resources/en.lproj/HockeySDK.strings
+s382562606.148779
+e382562606.152110
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/en.lproj/HockeySDK.strings
+x../Resources/en.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/en.lproj/HockeySDK.stringsc136262e71cdb641^44f9262e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/en.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/en.lproj/HockeySDK.strings ../Resources/en.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/en.lproj -- ../Resources/en.lproj/HockeySDK.strings36"8499C0ED-54EE-4138-8251-7BE38CAC8023-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/es.lproj/HockeySDK.strings ../Resources/es.lproj/HockeySDK.strings
+s382562606.105919
+e382562606.109844
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/es.lproj/HockeySDK.strings
+x../Resources/es.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/es.lproj/HockeySDK.strings15361b2e71cdb641^632b1c2e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/es.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/es.lproj/HockeySDK.strings ../Resources/es.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/es.lproj -- ../Resources/es.lproj/HockeySDK.strings36"DE1ED272-4DD4-461D-AA8C-8D68B54484CE-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/fr.lproj/HockeySDK.strings ../Resources/fr.lproj/HockeySDK.strings
+s382562606.113859
+e382562606.124683
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/fr.lproj/HockeySDK.strings
+x../Resources/fr.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/fr.lproj/HockeySDK.strings745c1d2e71cdb641^56f01f2e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/fr.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/fr.lproj/HockeySDK.strings ../Resources/fr.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/fr.lproj -- ../Resources/fr.lproj/HockeySDK.strings36"0EE9EBB8-311F-42CB-B705-2E4F222FA97F-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hr.lproj/HockeySDK.strings ../Resources/hr.lproj/HockeySDK.strings
+s382562606.142177
+e382562606.147534
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hr.lproj/HockeySDK.strings
+x../Resources/hr.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/hr.lproj/HockeySDK.strings7b86242e71cdb641^cac4252e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/hr.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/hr.lproj/HockeySDK.strings ../Resources/hr.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hr.lproj -- ../Resources/hr.lproj/HockeySDK.strings36"DB915340-B703-4C1B-A231-91D66D9E4488-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hu.lproj/HockeySDK.strings ../Resources/hu.lproj/HockeySDK.strings
+s382562606.156671
+e382562606.159778
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hu.lproj/HockeySDK.strings
+x../Resources/hu.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/hu.lproj/HockeySDK.strings363d282e71cdb641^f3e6282e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/hu.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/hu.lproj/HockeySDK.strings ../Resources/hu.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/hu.lproj -- ../Resources/hu.lproj/HockeySDK.strings36"DC0FE100-1CF4-40AE-B57C-1310608EE656-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/it.lproj/HockeySDK.strings ../Resources/it.lproj/HockeySDK.strings
+s382562606.128260
+e382562606.132205
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/it.lproj/HockeySDK.strings
+x../Resources/it.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/it.lproj/HockeySDK.strings7ff9202e71cdb641^30d8212e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/it.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/it.lproj/HockeySDK.strings ../Resources/it.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/it.lproj -- ../Resources/it.lproj/HockeySDK.strings36"920F5CCD-8133-4880-887F-8328F9191DA5-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ja.lproj/HockeySDK.strings ../Resources/ja.lproj/HockeySDK.strings
+s382562606.133518
+e382562606.136625
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ja.lproj/HockeySDK.strings
+x../Resources/ja.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/ja.lproj/HockeySDK.strings0b45222e71cdb641^44f9222e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/ja.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/ja.lproj/HockeySDK.strings ../Resources/ja.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ja.lproj -- ../Resources/ja.lproj/HockeySDK.strings36"6A2189F6-9258-416E-AF80-7A342C641184-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt-PT.lproj/HockeySDK.strings ../Resources/pt-PT.lproj/HockeySDK.strings
+s382562606.147038
+e382562606.150451
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt-PT.lproj/HockeySDK.strings
+x../Resources/pt-PT.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy ../Resources/pt-PT.lproj/HockeySDK.stringsc2c2252e71cdb641^d383262e71cdb641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/pt-PT.lproj/HockeySDK.strings0000000000000000^849"CopyStringsFile ../Resources/HockeySDKResources.bundle/pt-PT.lproj/HockeySDK.strings ../Resources/pt-PT.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt-PT.lproj -- ../Resources/pt-PT.lproj/HockeySDK.strings36"9DFD5A92-4CAF-4083-B13C-976550485A44-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt.lproj/HockeySDK.strings ../Resources/pt.lproj/HockeySDK.strings
+s382562606.137977
+e382562606.140937
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt.lproj/HockeySDK.strings
+x../Resources/pt.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/pt.lproj/HockeySDK.stringsf168232e71cdb641^4417242e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/pt.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/pt.lproj/HockeySDK.strings ../Resources/pt.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/pt.lproj -- ../Resources/pt.lproj/HockeySDK.strings36"E4B91F7A-EF05-401B-B650-F3FC239836F0-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ro.lproj/HockeySDK.strings ../Resources/ro.lproj/HockeySDK.strings
+s382562606.153381
+e382562606.156773
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ro.lproj/HockeySDK.strings
+x../Resources/ro.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/ro.lproj/HockeySDK.stringsfe65272e71cdb641^732b282e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/ro.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/ro.lproj/HockeySDK.strings ../Resources/ro.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ro.lproj -- ../Resources/ro.lproj/HockeySDK.strings36"8AC91B45-0574-4235-BD38-889E3A2ADBBD-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ru.lproj/HockeySDK.strings ../Resources/ru.lproj/HockeySDK.strings
+s382562606.142147
+e382562606.145788
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ru.lproj/HockeySDK.strings
+x../Resources/ru.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy ../Resources/ru.lproj/HockeySDK.strings4084242e71cdb641^eb54252e71cdb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/ru.lproj/HockeySDK.strings0000000000000000^837"CopyStringsFile ../Resources/HockeySDKResources.bundle/ru.lproj/HockeySDK.strings ../Resources/ru.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/ru.lproj -- ../Resources/ru.lproj/HockeySDK.strings36"FDA21FE5-F3F8-4562-A2B5-81F4768FA495-
+
+CCopyStringsFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/zh-Hans.lproj/HockeySDK.strings ../Resources/zh-Hans.lproj/HockeySDK.strings
+s382562606.151799
+e382562606.155460
+r1
+xCopyStringsFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/zh-Hans.lproj/HockeySDK.strings
+x../Resources/zh-Hans.lproj/HockeySDK.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy ../Resources/zh-Hans.lproj/HockeySDK.strings6d03272e71cdb641^2dcf272e71cdb641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/zh-Hans.lproj/HockeySDK.strings0000000000000000^857"CopyStringsFile ../Resources/HockeySDKResources.bundle/zh-Hans.lproj/HockeySDK.strings ../Resources/zh-Hans.lproj/HockeySDK.strings    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/zh-Hans.lproj -- ../Resources/zh-Hans.lproj/HockeySDK.strings36"83561FCE-29BD-4B8B-90E2-F0D54E5B765B-
+
+CProcessInfoPlistFile /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/Info.plist ../Resources/HockeySDK-Info.plist
+s382562605.598561
+e382562605.602553
+r1
+xProcessInfoPlistFile
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/Info.plist
+x../Resources/HockeySDK-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Process ../Resources/HockeySDK-Info.plistf569992d71cdb641^85409a2d71cdb641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDK-Info.plist0000000000000000^810"ProcessInfoPlistFile ../Resources/HockeySDKResources.bundle/Info.plist ../Resources/HockeySDK-Info.plist    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    builtin-infoPlistUtility ../Resources/HockeySDK-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle/Info.plist36"030A7922-5683-49EF-B833-0CD6C45C2977-
+
+CTouch /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle
+s382562606.168061
+e382562606.175639
+r1
+xTouch
+x/Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundleb11a2b2e71cdb641^38f62c2e71cdb641^---0#0#0#--640"Touch ../Resources/HockeySDKResources.bundle    cd /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/eloy/.rbenv/versions/1.9.3-p385/bin:/Users/eloy/.rbenv/libexec:/Users/eloy/.rbenv/plugins/ruby-build/bin:/Users/eloy/.rbenv/shims:/Users/eloy/.rbenv/bin:/opt/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11R6/bin"    /usr/bin/touch -c /Users/eloy/tmp/TestHockeySDK/TestHockeySDK/Pods/HockeySDK/Support/../Resources/HockeySDKResources.bundle36"85696656-EF89-4593-8DE8-E9B5CFC2285A-
+
